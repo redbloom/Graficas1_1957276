@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Tomas\Desktop\OGL_GENERAL\OGL_GENERAL\main.cpp(143,5): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Tomas\Desktop\OGL_GENERAL\OGL_GENERAL\main.cpp(179,5): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Tomas\Desktop\OGL_GENERAL\OGL_GENERAL\main.cpp(228,5): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  OGL_GENERAL.vcxproj -> C:\Users\Tomas\Desktop\OGL_GENERAL\Debug\OGL_GENERAL.exe
